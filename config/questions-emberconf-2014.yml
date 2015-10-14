@@ -1,79 +1,78 @@
 categories:
-  - name: Views
+  - name: Movilidad Sustentable
     questions:
-    - question: This View hook fires after a view's element has been inserted into the DOM.
-      answer: What is "didInsertElement"?
-    - question: Use this property to specify a view's DOM element type other than div.
-      answer: What is "tagName"?
-    - question: This View class is useful for manually managing a view hierarchy.
-      answer: What is Ember.ContainerView?
-    - question: In Ember views, you should do clean up for code you called during "didInsertElement" in this method.
-      answer: What is "willDestroyElement"?
-    - question: You can schedule operations on this run loop queue to fire after DOM elements have rendered.
-      answer: What is afterRender?
+    - question: ¿Cómo tendría que ser un modelo de movilidad que promueva y permita la participación y el goce de la ciudad de todos los modos de transporte?
+      answer: "#retosdelaciudad"
+    - question: ¿Cómo conciliar el diseño y la implementación de políticas públicas de sustentabilidad considerando los intereses de todos? Por ejemplo: parquímetros, puentes peatonales, semáforos, autos
+      answer: "#retosdelaciudad"
+    - question: ¿Es viable la cooperación entre la administración pública y el sector privado para mejorar la movilidad en las ciudades?
+      answer: "#retosdelaciudad"
+    - question: ¿Los municipios deberían tener una mayor injerencia en la planeación de los programas de movilidad?
+      answer: "#retosdelaciudad"
+    - question: ¿Cómo aporta la movilidad sustentable a la calidad del aire y qué alternativas son replicables en ciudades como Saltillo?
+      answer: "#retosdelaciudad"
 
-  - name: Contributing
+  - name: Plan integral de Movilidad Sustentable (PIMUS)
     questions:
-    - question: You should always try to create one of these when filing an issue to demonstrate the bug/problem.
-      answer: What is a jsFiddle / JSBin / breaking test case?
-    - question: Every behavior-changing pull request should come with some of these.
-      answer: What are tests cases?
-    - question: Confusing documentation is considered to be this by the core team
-      answer: What is a bug?
-    - question: New feature ideas should be discussed first here, on an Ember-powered public forum written in part by @evil_trout
-      answer: What is discuss.emberjs.com
-    - question: As we learned from @rwjblue, new Ember feature names should be prefixed with this.
-      answer: What is the package name?
+    - question: ¿Cómo fortalecer el vínculo entre la planeación de un PIMUS y la infraestructura?
+      answer: "#retosdelaciudad"
+    - question: En el transcurso de la planeación a la acción, ¿cuáles son los retos que ha planteado el PIMUS?
+      answer: "#retosdelaciudad"
+    - question: ¿Desde qué sector hace falta que se impulse la implementación de un PIMUS?
+      answer: "#retosdelaciudad"
+    - question: ¿Cómo el IMPLAN planea integrar a la ciudadanía en la gestión del PIMUS?
+      answer: "#retosdelaciudad"
+    - question: ¿Cuáles son las oportunidades que planeta la implementación de un PIMUS para la ciudad?
+      answer: "#retosdelaciudad"
 
-  - name: Ember Application Architecture
+  - name: Seguridad Vial y Accesibilidad Universal
     questions:
-    - question: This scheduling mechanism is what drives data-binding in Ember.
-      answer: What is the Run Loop?
-    - question: Use this property to give controllers access to specific other controllers.
-      answer: What is "needs"?
-    - question: You would mix this in to allow your Ember object to fire events that other objects can subscribe to.
-      answer: What is Ember.Evented?
-    - question: This mechanism is responsible for routes having a "store" property.
-      answer: What are (Type) injections?
-    - question: To change how classes are found by Ember, use a custom instance of this.
-      answer: What is the resolver?
+    - question: ¿Cómo sería un sistema de transporte urbano que garantizara la accesibilidad a todos los usuarios?
+      answer: "#retosdelaciudad"
+    - question: ¿Qué hace falta para que las partidas presupuestales destinen más recursos a la infraestructura de transporte urbano?
+      answer: "#retosdelaciudad"
+    - question: ¿Cómo mejorar las condiciones de seguridad para los peatones?
+      answer: "#retosdelaciudad"
+    - question: ¿Será posible incentivar la reducción del uso del automóvil si toda la infraestructura favorece su uso?
+      answer: "#retosdelaciudad"
+    - question: ¿Cuáles son los retos que podemos esperar en materia de seguridad vial hacia el futuro?
+      answer: "#retosdelaciudad"
 
-  - name: The Router
+  - name: Atlas de riesgos y resilencia
     questions:
-    - question: This function is the entry point for drawing out your application's routes.
-      answer: What is Router.map
-    - question: Use this handlebars helper to nest content provided by child/leaf routes.
-      answer: What is "outlet"?
-    - question: Override this Route hook to convert a dynamic route segment to a context object that'll be passed to the controller.
-      answer: What is "model"?
-    - question: These public API Route hooks fire when entering and exiting a route, respectively.
-      answer: What are "activate" and "deactivate"?
-    - question: If model returns one of these during a URL navigation, the router will temporarily pause the transition.
-      answer: What is a "promise"?
+    - question: ¿Podemos considerar la resilencia como factor clave para el futuro de las ciudades?
+      answer: "#retosdelaciudad"
+    - question: ¿Cómo trabajar la prevención desde un punto de vista que involucre a los ciudadanos?
+      answer: "#retosdelaciudad"
+    - question: Actualmente, ¿la infraestructura existente puede soportar un desastre natural?
+      answer: "#retosdelaciudad"
+    - question: ¿Han sido suficientes las acciones del gobierno para lograr ciudades con suficiente capacidad de respuesta ante situaciones críticas?
+      answer: "#retosdelaciudad"
+    - question: ¿Cuáles son los retos que podemos esperar en materia de infraestructura urbana hacia el futuro?
+      answer: "#retosdelaciudad"
 
-  - name: Ember-Handlebars
+  - name: Urbanismo Táctico
     questions:
-    - question: This helper can be used to disable the default auto-updating behavior of data bindings.
-      answer: What is "unbound"?
-    - question: Use this function to declare your own bound Handlebars helpers
-      answer: What is "Ember.registerBoundHelper"?
-    - question: This helper will insert a view into the template and attach it to a controller.
-      answer: What is "render"?
-    - question: When using {{each}}, this option will link each rendered item with its own instantiated controller.
-      answer: What is itemController="..."
-    - question: This will no longer be a runtime dependency when HTMLBars ships
-      answer: What is jQuery / handlebars-runtime?
+    - question: ¿Cuáles son las oportunidades que plantea el urbanismo táctico para la ciudad?
+      answer: "#retosdelaciudad"
+    - question: ¿Cómo podrían los medios de comunicación lograr una cobertura más generosa e informada sobre la ciudad?
+      answer: "#retosdelaciudad"
+    - question: ¿Cómo sería una infraestructura urbana con una visión más humana en las ciudades, qué tendría que tener?
+      answer: "#retosdelaciudad"
+    - question: ¿Cuál es la herencia que le deja un Implan comprometido a una ciudad?
+      answer: "#retosdelaciudad"
+    - question: ¿Cuál es el reto principal que implica el urbanismo táctico?
+      answer: "#retosdelaciudad"
 
-  - name: Culture
+  - name: Cultura cívica
     questions:
-    - question: Ember started life as 2.0 of this Javascript framework.
-      answer: What is Sproutcore?
-    - question: The Ember mascot, as it appears on emberjs.com is an animal of this type, apparently French.
-      answer: What is a hamster?
-    - question: Tom Dale described this Ember meetup as a "mini-conference every month".
-      answer: What is Ember.js NYC?
-    - question: This service (which uses an Ember.js front-end) verifies that Github PRs pass all test cases.
-      answer: What is Travis.ci?
-    - question: If you're on a Hot Seat, you're probably being interviewed by this ZenDesk employee.
-      answer: Who is DeVaris Brown?
-
+    - question: ¿Cuáles son los retos que podemos esperar en materia de infraestructura urbana hacia el futuro?
+      answer: "#retosdelaciudad"
+    - question: ¿Cómo se podría promover una mejor cultura urbana, de ciudad, de uso del espacio público?
+      answer: "#retosdelaciudad"
+    - question: ¿Qué tipo de políticas públicas tendrían el potencial de involucrar a las personas en el desarrollo de las ciudades, sin que ello se convirtiera en una “consultitis” de procesos interminables?
+      answer: "#retosdelaciudad"
+    - question: ¿Cuáles serían los límites –si los hay– de la participación ciudadana con respecto a la planeación urbana?
+      answer: "#retosdelaciudad"
+    - question: This Handlebars/Ember-compatible templating language offers an indented alternative to Handlebars syntax.
+      answer: "#retosdelaciudad"
