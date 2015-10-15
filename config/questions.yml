@@ -49,30 +49,30 @@ categories:
     - question: ¿Han sido suficientes las acciones del gobierno para lograr ciudades con suficiente capacidad de respuesta ante situaciones críticas?
       answer:
     - question: ¿Cuáles son los retos que podemos esperar en materia de infraestructura urbana hacia el futuro?
-      answer: 
+      answer:
 
   - name: Urbanismo Táctico
     questions:
-    - question: This helper can be used to disable the default auto-updating behavior of data bindings.
-      answer: unbound
-    - question: Use this function to declare your own bound Handlebars helpers
-      answer: Ember.registerBoundHelper
-    - question: This helper will insert a view into the template and attach it to a controller.
-      answer: render
-    - question: When using {{each}}, this option will link each rendered item with its own instantiated controller.
-      answer: itemController="..."
-    - question: This Handlebars/Ember-compatible templating language offers an indented alternative to Handlebars syntax.
-      answer: Emblem.js
+    - question: ¿Cuáles son las oportunidades que plantea el urbanismo táctico para la ciudad?
+      answer:
+    - question: ¿Cómo podrían los medios de comunicación lograr una cobertura más generosa e informada sobre la ciudad?
+      answer:
+    - question: ¿Cómo sería una infraestructura urbana con una visión más humana en las ciudades, qué tendría que tener?
+      answer:
+    - question: ¿Cuál es la herencia que le deja un Implan comprometido a una ciudad?
+      answer:
+    - question: ¿Cuál es el reto principal que implica el urbanismo táctico?
+      answer:
 
   - name: Cultura cívica
     questions:
-    - question: This is the name of Ember's bespectacled rodent mascot.
-      answer: Tomster
-    - question: This service (which uses an Ember.js front-end) verifies that Github PRs pass all test cases.
-      answer: Travis
-    - question: DAILY QUADRUPLE!!!!!! Michael Madrid presents "Crambear -- Flashcards in Ember.js"
-      answer: n/a
-    - question: Coined by Angular.js, this scope-related word is a favorite trolling target among Ember enthusiasts.
-      answer: Transclusion
-    - question: Tom Dale retweets this celebrity more often he tweets about code.
-      answer: Rebecca Black
+    - question: ¿Cuáles son los retos que podemos esperar en materia de infraestructura urbana hacia el futuro?
+      answer:
+    - question: ¿Cómo se podría promover una mejor cultura urbana, de ciudad, de uso del espacio público?
+      answer:
+    - question: ¿Qué tipo de políticas públicas tendrían el potencial de involucrar a las personas en el desarrollo de las ciudades?
+      answer:
+    - question: ¿Cuáles serían los límites –si los hay– de la participación ciudadana con respecto a la planeación urbana?
+      answer:
+    - question: This Handlebars/Ember-compatible templating language offers an indented alternative to Handlebars syntax.
+      answer: 
