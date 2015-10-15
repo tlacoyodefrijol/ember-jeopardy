@@ -18,12 +18,12 @@ categories:
       answer:
     - question: En el transcurso de la planeación a la acción, ¿cuáles son los retos que ha planteado el PIMUS?
       answer:
-    - question: In the Ember repo, this rake task rebuilds Ember
-      answer: rake dist
-    - question: This is an Ember-powered public forum for discussing Ember features and ideas
-      answer: http://discuss.emberjs.com/
-    - question: DAILY QUADRUPLE!!!!! Matt Rogish presents "Ember Model Generation from Rails Serializers"
-      answer: n/a
+    - question: ¿Desde qué sector hace falta que se impulse la implementación de un PIMUS?
+      answer:
+    - question: ¿Cómo el IMPLAN planea integrar a la ciudadanía en la gestión del PIMUS?
+      answer:
+    - question: ¿Cuáles son las oportunidades que planeta la implementación de un PIMUS para la ciudad?
+      answer:
 
   - name: Seguridad Vial y Accesibilidad Universal
     questions:
