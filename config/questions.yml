@@ -27,16 +27,16 @@ categories:
 
   - name: Seguridad Vial y Accesibilidad Universal
     questions:
-    - question: This scheduling mechanism is what drives data-binding in Ember.
-      answer: The Run Loop
-    - question: Use this property to give controllers access to specific other controllers.
-      answer: needs
-    - question: DAILY QUADRUPLE!!!!!!! Chris Tse presents "Oasis.js"
-      answer: n/a
-    - question: This mechanism is responsible for controllers all having a router property.
-      answer: (Type) injections
-    - question: You can call these Application methods to defer and advance app initialization.
-      answer: App.deferReadiness() and App.advanceReadiness()
+    - question: ¿Cómo sería un sistema de transporte urbano que garantizara la accesibilidad a todos los usuarios?
+      answer:
+    - question: ¿Qué hace falta para que las partidas presupuestales destinen más recursos a la infraestructura de transporte urbano?
+      answer:
+    - question:  ¿Cómo mejorar las condiciones de seguridad para los peatones?
+      answer:
+    - question: ¿Será posible incentivar la reducción del uso del automóvil si toda la infraestructura favorece su uso?
+      answer:
+    - question: ¿Cuáles son los retos que podemos esperar en materia de seguridad vial hacia el futuro?
+      answer: 
 
   - name: Atlas de riesgos y resilencia
     questions:
