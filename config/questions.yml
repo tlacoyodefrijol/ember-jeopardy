@@ -2,7 +2,7 @@ categories:
   - name: Movilidad Sustentable
     questions:
     - question: ¿Cómo tendría que ser un modelo de movilidad que promueva y permita la participación y el goce de la ciudad de todos los modos de transporte?
-      respuesta: didInsertElement
+      answer: 
     - question: ¿Cómo conciliar el diseño y la implementación de políticas públicas de sustentabilidad considerando los intereses de todos?
       answer: tagName
     - question: ¿Es viable la cooperación entre la administración pública y el sector privado para mejorar la movilidad en las ciudades?
