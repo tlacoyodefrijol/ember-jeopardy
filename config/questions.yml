@@ -3,13 +3,13 @@ categories:
     questions:
     - question: ¿Cómo tendría que ser un modelo de movilidad que promueva y permita la participación y el goce de la ciudad de todos los modos de transporte?
       answer: didInsertElement
-    - question: Use this property to specify a view's DOM element type other than div.
+    - question: ¿Cómo conciliar el diseño y la implementación de políticas públicas de sustentabilidad considerando los intereses de todos? Por ejemplo: parquímetros, puentes peatonales, semáforos, autos
       answer: tagName
-    - question: This View class is useful for manually managing a view hierarchy.
+    - question: ¿Es viable la cooperación entre la administración pública y el sector privado para mejorar la movilidad en las ciudades?
       answer: Ember.ContainerView
-    - question: DAILY QUADRUPLE!!!!!!! Cory Forsyth presents "Dragging and Dropping in Ember"
+    - question: ¿Los municipios deberían tener una mayor injerencia en la planeación de los programas de movilidad?
       answer: na
-    - question: You can schedule operations on this run loop queue to fire after DOM elements have rendered.
+    - question: ¿Cómo aporta la movilidad sustentable a la calidad del aire y qué alternativas son replicables en ciudades como Saltillo?
       answer: afterRender
 
   - name: Plan integral de Movilidad Sustentable (PIMUS)
