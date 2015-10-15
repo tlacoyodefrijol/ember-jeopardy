@@ -36,20 +36,20 @@ categories:
     - question: ¿Será posible incentivar la reducción del uso del automóvil si toda la infraestructura favorece su uso?
       answer:
     - question: ¿Cuáles son los retos que podemos esperar en materia de seguridad vial hacia el futuro?
-      answer: 
+      answer:
 
   - name: Atlas de riesgos y resilencia
     questions:
-    - question: This function is the entry point for drawing out your application's routes.
-      answer: App.Router.map
-    - question: Use this handlebars helper to nest content provided by child/leaf routes.
-      answer: outlet
-    - question: Override this Route hook to convert a dynamic route segment to a context object that'll be passed to the controller.
-      answer: model
-    - question: These public API Route hooks fire when entering and exiting a route, respectively.
-      answer: activate / deactivate
-    - question: If model returns one of these during a URL navigation, the router will temporarily pause the transition.
-      answer: A Promise
+    - question: ¿Podemos considerar la resilencia como factor clave para el futuro de las ciudades?
+      answer:
+    - question: ¿Cómo trabajar la prevención desde un punto de vista que involucre a los ciudadanos?
+      answer:
+    - question: Actualmente, ¿la infraestructura existente puede soportar un desastre natural?
+      answer:
+    - question: ¿Han sido suficientes las acciones del gobierno para lograr ciudades con suficiente capacidad de respuesta ante situaciones críticas?
+      answer:
+    - question: ¿Cuáles son los retos que podemos esperar en materia de infraestructura urbana hacia el futuro?
+      answer: 
 
   - name: Urbanismo Táctico
     questions:
